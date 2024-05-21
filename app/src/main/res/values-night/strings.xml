@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to_nhs_voice">Welcome tp NHS Voice</string>
+    <string name="your_app_tag_line">NHS Voice</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+</resources>

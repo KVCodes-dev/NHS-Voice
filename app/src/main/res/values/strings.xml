@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NHS Voice</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_to_nhs_voice">Welcome tp NHS Voice</string>
+    <string name="your_app_tag_line">NHS Voice</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="go">Go</string>
+    <string name="new_user_sign_up">New user sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="signup_to_start_your_new_journey">Sign up to start new journey with us</string>
+    <string name="full_name">Name</string>
+    <string name="email_id">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+</resources>
